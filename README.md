@@ -1,0 +1,4 @@
+This was my machine learning final Project
+I will attach the pdf soon heres a little bit about it
+
+Indoor localization involves the idea of determining a users position inside of a building based on sensor data. This differs from outdoor navigation heavily, where GPS would come into play. Indoor environments such as homes and schools weaken satellite signals and introduce constant interference from walls, floors, furniture, and wireless devices. Because of this, many large spaces university campuses, hospitals, malls, airports, and office buildings require alternative approaches to estimate where a person is located. This project will focus on predicting a users building and floor location using wifi fingerprinting data. Each fingerprint is basically a vector of received signal strength (RSSI) values from hundreds of access points, and the main goal is to map these patterns to the correct building floor label.
